@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656091430590",
+    "project_id": "registrationcompose",
+    "storage_bucket": "registrationcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656091430590:android:dabd364f0f237261f568ef",
+        "android_client_info": {
+          "package_name": "com.tana.registartioncompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656091430590-cl2l502d5np3k2uivtlcl9t8gr9ddcql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvp4LzEidcqt9GR09n_gGvoaMIIZurJqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656091430590-cl2l502d5np3k2uivtlcl9t8gr9ddcql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
